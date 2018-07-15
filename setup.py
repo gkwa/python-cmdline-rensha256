@@ -35,6 +35,7 @@ setup(
     version=version,
     description="Python command line application bare bones template.",
     long_description=long_descr,
+    url="https://github.com/taylormonacelli/rensha256",
     author="Taylor Monacelli",
     author_email="taylormonacelli@gmail.com"
 )
